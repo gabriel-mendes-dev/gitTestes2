@@ -1,1 +1,1 @@
-Meu teste versao sem versao
+Meu teste versao 0.0.0
